@@ -1,8 +1,5 @@
 Hello
 World
-<<<<<<< HEAD
 Wan
-=======
 Quang
->>>>>>> b835690091b1f77f82998475ef731bbe7bd2e7fe
-Wan
+
